@@ -93,24 +93,24 @@ annotate view ZC_86FLIGHT with
   AirportTo;
   
   @UI.identification: [ {
-    position: 80 
+    position: 60 
   } ]
   @UI.lineItem: [ {
-    position: 80 
+    position: 60 
   } ]
   @UI.selectionField: [ {
-    position: 80 
+    position: 60 
   } ]
   CityTo;
   
   @UI.identification: [ {
-    position: 90 
+    position: 80 
   } ]
   @UI.lineItem: [ {
-    position: 90 
+    position: 80 
   } ]
   @UI.selectionField: [ {
-    position: 90 
+    position: 80 
   } ]
   CountryTo;
   

@@ -14,4 +14,10 @@ use etag
   use action Discard;
   use action Resume;
   use action Prepare;
+
+  field (readonly)   CityFrom,
+                     CountryFrom,
+                     CityTo,
+                     CountryTo;
+
 }
