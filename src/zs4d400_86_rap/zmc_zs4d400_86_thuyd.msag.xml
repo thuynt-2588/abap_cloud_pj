@@ -7,6 +7,26 @@
     <MASTERLANG>E</MASTERLANG>
     <STEXT>Message class by ThuyD</STEXT>
    </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_ZS4D400_86_THUYD</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Flight Number &amp;1 &amp;2 already exists!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_ZS4D400_86_THUYD</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Airline &amp;1 does not exist!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMC_ZS4D400_86_THUYD</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Departure and destination airports  must not be the same.</TEXT>
+    </T100>
+   </T100>
   </asx:values>
  </asx:abap>
 </abapGit>
