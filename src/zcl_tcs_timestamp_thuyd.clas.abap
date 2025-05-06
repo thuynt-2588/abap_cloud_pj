@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS ZCL_TCS_TIMESTAMP_THUYD IMPLEMENTATION.
+CLASS zcl_tcs_timestamp_thuyd IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
